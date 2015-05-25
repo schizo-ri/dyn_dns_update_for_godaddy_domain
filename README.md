@@ -9,3 +9,5 @@ TODO:
   - I forgot now but there are more things to do
 
 Just edit script to include your username, password and domain.
+
+If you're using systemd you can use service and timer for regular update. Or just add script to cron.
