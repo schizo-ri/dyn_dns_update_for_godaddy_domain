@@ -1,0 +1,7 @@
+[Unit]
+Description=Dynamic DNS for godaddy
+
+[Service]
+Type=oneshot
+User=user
+ExecStart=/usr/bin/python2 /path/to/godaddyDynDNS.py
